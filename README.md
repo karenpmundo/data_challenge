@@ -12,13 +12,26 @@ ciudad.
 *indice_hibrido_seguridad_BASEDELITOS: índice de elaboración propia con datos de los 
 boletines estadísticos de la incidencia delictiva en la Ciudad de México
 
-*
+Para el desarrollo del Informe Ejecutivo colaboramos 4 anáistas de la siguiente forma:
+
+
+*Karen Mundo: Redacción, sintesis y consolidado del informe final, obtención de precio 
+promedio de la vivienda por colonia.
+
+
+*Manuel Mera: Explotación de bases de datos, elaboración de mapas, consolidado y depuración de código
+
+
+*Diego Macal: Elaboración de Índice de Inseguridad
+
+
+*Gonzalo  Dolores: Estimación de Modelo Bayesiano
 
 Uso de IA 
 
-(Gemini) El principal apoyo que utilizamos fue para desarrollar el código necesario para 
+(Gemini) y (Chat GPT) El principal apoyo que utilizamos fue para desarrollar el código necesario para 
 generar los mapas, unirlos con la base de datos y obtener correctamente los nombres de las colonias.
 Además, nos ayudó para mejorar los formatos de las gráficas y optimizar el código,
-reduciendo su extensión.
+reduciendo su extensión. Finalmente como apoyo para síntesis y depuración de información.
 
-(Chat GPT) 
+
