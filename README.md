@@ -23,10 +23,11 @@ promedio de la vivienda por colonia e interpretación de resultados.
 elaboración de mapas, consolidado y depuración de código
 
 
-*Diego Macal: Elaboración de Índice de Inseguridad
+*Diego Macal: Elaboración de Índice de Inseguridad y colaboración para la estimación
+del Modelo Bayesiano
 
 
-*Gonzalo  Dolores: Estimación de Modelo Bayesiano
+*Gonzalo  Dolores: Estimación de Modelo Bayesiano y su correcta especificación.
 
 Uso de IA 
 
