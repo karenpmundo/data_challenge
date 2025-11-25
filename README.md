@@ -12,6 +12,9 @@ ciudad.
 *indice_hibrido_seguridad_BASEDELITOS: índice de elaboración propia con datos de los 
 boletines estadísticos de la incidencia delictiva en la Ciudad de México
 
+
+*Costo_prom_col: Costo promedio de la vivienda por colonia
+
 Para el desarrollo del Informe Ejecutivo colaboramos 4 anáistas de la siguiente forma:
 
 
