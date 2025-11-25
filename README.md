@@ -16,10 +16,11 @@ Para el desarrollo del Informe Ejecutivo colaboramos 4 anáistas de la siguiente
 
 
 *Karen Mundo: Redacción, sintesis y consolidado del informe final, obtención de precio 
-promedio de la vivienda por colonia.
+promedio de la vivienda por colonia e interpretación de resultados.
 
 
-*Manuel Mera: Explotación de bases de datos, elaboración de mapas, consolidado y depuración de código
+*Manuel Mera: Explotación de bases de datos, interpretación de resultados,
+elaboración de mapas, consolidado y depuración de código
 
 
 *Diego Macal: Elaboración de Índice de Inseguridad
